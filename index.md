@@ -2,6 +2,7 @@
 #Home Page
 
 layout: single
+Title: "Oliverah Consulting"
 header:
   overlay_image: /assets/images/OliverahClear.png
   overlay_filter: 0.1
