@@ -1,0 +1,53 @@
+# /_data/authors.yml
+
+
+Paul Hardy:
+  name        : "S. Paul Hardy"
+  bio         : "Technology Consultant & Musician"
+  avatar      : "/assets/images/avatar.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@sphardy.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/spaulhardy/"
+    - label: "Secure Chat"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/sphardy"
+
+Personal:
+  name        : "S. Paul Hardy"
+  bio         : "Eventually, my awesome biography constrained to a sentence or two will go here" 
+  avatar      : "/assets/images/avatar.png"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:mail@sphardy.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://sphardy.com"
+#    - label: "LinkedIn"
+#      icon: "fab fa-linkedin"
+#      url: "https://www.linkedin.com/in/spaulhardy/"
+#    - label: "Secure Chat"
+#      icon: "fab fa-keybase"
+#      url: "https://keybase.io/sphardy"
+
+Oliverah:
+  name        : "S. Paul Hardy"
+  bio         : "Technology Consultant & Musician"
+  avatar      : "/assets/images/avatar.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@oliverah.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://oliverah.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/company/oliverah"
+    - label: "Secure Chat"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/sphardy"

@@ -1,17 +1,18 @@
 ---
 #Home Page
 
-layout: home
+layout: single
 title: "Oliverah Consulting"
-author: Personal
+author: Oliverah
 
 header:
   overlay_image: /assets/images/OliverahBanner.png
   overlay_filter: 0.25
   caption: "Photo credit: [**Paul**](mailto:mail@sphardy.com)"
-  #actions:
-  #  - label: "About Me"
-  #    url: "/about/"
+  actions:
+    - label: "Contact Us"
+      url: "/contact/"
   #  - label: "About Oliverah"
   #    url: "/oliverah/"
 ---
+
