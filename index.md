@@ -5,7 +5,7 @@ layout: single
 title: "Oliverah Consulting"
 header:
   overlay_image: /assets/images/OliverahClear.png
-  overlay_filter: 0.1
+  overlay_filter: 0.01
   # caption: "Photo credit: [**Paul**](mailto:mail@sphardy.com)"
   actions:
     - label: "Contact Us"

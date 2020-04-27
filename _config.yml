@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: s_paul_h
 github_username: sphardy
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -99,15 +99,12 @@ author: Oliverah
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon:  "fab fa-fw fa-github"
+      url:   "https://github.com/sphardy"
+    - label: "LinkedIn"
+      icon:  "fab fa-linkedin"
+      url:   "https://www.linkedin.com/in/company/oliverah/"
 
 defaults:
   # _posts
