@@ -14,7 +14,6 @@ header:
 
 ### Contact Details
 
-
 | :---- | :-: | :---------------- |
 | Address | :: | Torggatan 8A7, 22100 Mariehamn, Åland Islands, Finland |
 | Phone | :: | +358 45 7345 5885  (inc. Signal, Whatspp, Telegram & iMessage) |
