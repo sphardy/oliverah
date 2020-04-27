@@ -41,7 +41,7 @@ Oliverah:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@oliverah.com"
+      url: "mailto:webmail2020@oliverah.com"
     - label: "Website"
       icon: "fas fa-fw fa-briefcase"
       url: "https://oliverah.com"
@@ -50,4 +50,4 @@ Oliverah:
       url: "https://www.linkedin.com/company/oliverah"
     - label: " Secure Chat"
       icon: "fab fa-keybase"
-      url: "https://keybase.io/sphardy"
+      url: "https://keybase.io/team/oliverah.public"
