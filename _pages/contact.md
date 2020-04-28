@@ -4,7 +4,7 @@ classes: wide
 
 header:
   overlay_image: /assets/images/OliverahClear.png
-  overlay_filter: 0.01
+  overlay_filter: rgba(185,144,117,0.2)
   # caption: "Photo credit: [**Paul**](mailto:webmail2020@oliverah.com)"
   actions:
     - label: "About"

@@ -6,7 +6,8 @@ classes: wide
 title: "Oliverah Consulting"
 header:
   overlay_image: /assets/images/OliverahClear.png
-  overlay_filter: 0.01
+  overlay_filter: rgba(185,144,117,0.2)
+  #rgb(233, 220, 190), rgba(185,144,117,0.2)
   # caption: "Photo credit: [**Paul**](mailto:mail@sphardy.com)"
   actions:
     - label: "Contact Us"
@@ -17,7 +18,7 @@ header:
   .page__content { font-size: 0.8em;}
 </style>
 
-Consultancy in Business Development, Sales/Marketing, Key Account Management and Program Management in the areas of Digital Technology, Telecommunications & Data Communications and Semiconductors. 
+Consultancy in Business Development, Sales/Marketing, Key Account Management and Program Management in the areas of Digital Technology, Telecommunications & Data Communications and Semiconductors.
 
 Specialties include:
 
