@@ -18,7 +18,7 @@ Paul Hardy:
 
 Personal:
   name        : "S. Paul Hardy"
-  bio         : "Eventually, my awesome biography constrained to a sentence or two will go here" 
+  bio         : "Eventually, my awesome biography constrained to a sentence or two will go here"
   avatar      : "/assets/images/avatar.png"
 #  links:
 #    - label: "Email"
@@ -48,6 +48,6 @@ Oliverah:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/oliverah"
-    - label: " Secure Chat"
-      icon: "fab fa-keybase"
+    - label: "Secure Chat"
+      icon: "fab fa-fw fa-keybase"
       url: "https://keybase.io/team/oliverah.public"
