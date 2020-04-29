@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sphardy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oliverah.com
+  * I am sphardy (https://keybase.io/sphardy) on keybase.
+  * I have a public key ASDMo7KAvH6FjaDtBYsK9dWkv7EkhIqNEzgc1mM0nq1Vcgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c025dbaef632f530de76dc06376559de1c6ac91a7a9cb3780f4e1b4c3ef453aa0a",
+      "host": "keybase.io",
+      "kid": "0120cca3b280bc7e858da0ed058b0af5d5a4bfb124848a8d13381cd663349ead55720a",
+      "uid": "7958bf031f511239de67384e149c2119",
+      "username": "sphardy"
+    },
+    "merkle_root": {
+      "ctime": 1588138032,
+      "hash": "de15b4511d9615d9057a3613d597ed36a56b86bd618e882571d1896c9be5693b4dc8c6d76d70a5c371c4396b4f2090f87269e3ea938d2656be8c8ea7d873382b",
+      "hash_meta": "ae1a25c01bea32689515bd8ffa3e59f65aea49f46a56608b5cec6f0cc18c591e",
+      "seqno": 16092173
+    },
+    "service": {
+      "entropy": "P+3h+w4tNhGFMHgWjZaXD6Q2",
+      "hostname": "oliverah.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588138071,
+  "expire_in": 504576000,
+  "prev": "c4648489cad44cd55b9504053f03924fc4adf221b7d66b1e524bf72b2d5e8bc2",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzKOygLx+hY2g7QWLCvXVpL+xJISKjRM4HNZjNJ6tVXIKp3BheWxvYWTESpcCOMQgxGSEicrUTNVblQQFPwOST8St8iG31mseUkv3Ky1ei8LEIEApK4r4dOrnvvIpnUUbg+kaDAbGsNE6TrHIp0SWTUE9AgHCo3NpZ8RAXrr7ibuDjvqtqDcsft6nWTFuWsDIHy2cWAQrFof1P/wP0e4Z9gpr3Xyzq82f82t2jciossih8JyqZo+wFqNkCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAXBtEWOU5od/n0b2v9xXvS282P/pygleeZg+24cTpD0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sphardy
+
+==================================================================
