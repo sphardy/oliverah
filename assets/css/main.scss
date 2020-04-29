@@ -7,11 +7,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Colour Footer to be same as Header Banner
 .page__footer { background-color: #E7DFD9; }
 
-// Remove Table Header colouring
 thead         { background-color: transparent; border-top: 2px solid #afa58f; }
 
-// Set Nav font colout to match sidebar
 .greedy-nav a { color: #636363; }
