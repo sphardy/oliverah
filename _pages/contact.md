@@ -9,7 +9,6 @@ header:
   actions:
     - label: "About"
       url: "/"
-
 ---
 
 | Contact Details: | | |
