@@ -7,7 +7,6 @@ title: "Oliverah Consulting"
 header:
   overlay_image: /assets/images/OliverahClear.png
   overlay_filter: rgba(185,144,117,0.2)
-  #rgb(233, 220, 190), rgba(185,144,117,0.2)
   # caption: "Photo credit: [**Paul**](mailto:mail@sphardy.com)"
   actions:
     - label: "Contact Us"
