@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 classes: wide
+tagline: Contact Details
 
 header:
   overlay_image: /assets/images/OliverahClear.png
@@ -9,15 +10,45 @@ header:
   actions:
     - label: "About"
       url: "/"
----
 
-| Contact Details: | | |
-| :---- | :-: | :---------------- |
-| Address<br /><br /><br /><br /> | ::<br />::<br />::<br />:: | Torggatan 8A7, <br />22100 Mariehamn, <br />Åland Islands, <br />Finland |
-| Phone | :: | +358 45 7345 5885  (inc. Signal, Whatspp, Telegram & iMessage) |
-| Email | :: | [mail@oliverah.com](mailto:webmail2020@oliverah.com) |
-| Web   | :: | [https://oliverah.com](https://oliverah.com) |
-| LinkedIn | :: | [https://www.linkedin.com/company/oliverah](https://www.linkedin.com/company/oliverah) |
-| Keybase | :: | [https://keybase.io/team/oliverah.public](https://keybase.io/team/oliverah.public) |
-| PGP Key | :: | Download [here](/assets/docs/oliverah_pgp_key.asc) |
-| File Upload | :: | [https://sphardy.net/upload-to-sph](https://sphardy.net/upload-to-sph) |
+label:
+  msg     : "<strong><i class=\"far fa-fw fa-comment\" aria-hidden=\"true\">       </i>&nbsp;Messages:     </strong>"
+  email   : "<strong><i class=\"far fa-fw fa-envelope\" aria-hidden=\"true\">      </i>&nbsp;Email:        </strong>"
+  phone   : "<strong><i class=\"fab fa-fw fa-apple\" aria-hidden=\"true\">         </i>&nbsp;Phone:        </strong>"
+  linkedin: "<strong><i class=\"fab fa-fw fa-linkedin\" aria-hidden=\"true\">      </i>&nbsp;LinkedIn:     </strong>"
+  keybase : "<strong><i class=\"fab fa-fw fa-keybase\" aria-hidden=\"true\">       </i>&nbsp;Keybase:      </strong>"
+  web     : "<strong><i class=\"fas fa-fw fa-link\" aria-hidden=\"true\">          </i>&nbsp;Web:          </strong>"
+  map     : "<strong><i class=\"fas fa-fw fa-map-marker-alt\" aria-hidden=\"true\"></i>&nbsp;Location:     </strong>"
+  key     : "<strong><i class=\"fas fa-fw fa-key\" aria-hidden=\"true\">           </i>&nbsp;PGP&nbsp;Key: </strong>"
+  upload  : "<strong><i class=\"fas fa-fw fa-upload\" aria-hidden=\"true\">        </i>&nbsp;Uploads:      </strong>"
+
+---
+<style>
+  a { text-decoration: none; }
+  tr, td { border: none; }
+</style>
+
+# Contact Details
+
+| :----------- | :--------- |
+| {{ page.label.phone }}    | [+358 45 7345 5885][Phone] |
+| {{ page.label.email }}    | [webmail@oliverah.com](mailto:webmai@oliverah.com) |
+| {{ page.label.msg }}      | [Signal], [WhatsApp], [Telegram], [Keybase] |
+| {{ page.label.linkedin }} | [https://www.linkedin.com/company/oliverah](https://www.linkedin.com/company/oliverah) |
+| {{ page.label.keybase }}  | [https://keybase.io/team/oliverah.public](https://keybase.io/team/oliverah.public) |
+| {{ page.label.key }}      | [Download][PGP] |
+| {{ page.label.upload }}   | Send via [this link]({% link _pages/uploads.md %}) |
+| {{ page.label.web }}      | [{{site.url}}]({{site.url}}) |
+| {{ page.label.map }}      | [\\\\\\former.uptake.swells][location] |
+
+<!--
+> {{ page.label.map }}<br /> Torggatan 8A7, <br />22100 Mariehamn, <br />Åland Islands, <br />Finland
+{: .notice--info} -->
+
+[Phone]:  tel:+3584573455885
+[Signal]: https://signal.org
+[WhatsApp]: https://whatsApp.com
+[Telegram]: https://telegram.org
+[Keybase]: https://keybase.io
+[PGP]: {% link /assets/docs/oliverah_pgp_key.asc %}
+[location]: https://w3w.co/former.uptake.swells
