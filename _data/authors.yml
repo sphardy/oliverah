@@ -27,7 +27,7 @@ Oliverah:
   links:
     - label: "Email"
       icon:  "far fa-fw fa-envelope"
-      url:   "mailto:webmail2020@oliverah.com"
+      url:   "mailto:webmail@oliverah.com"
     - label: "Website"
       icon:  "fas fa-fw fa-briefcase"
       url:   "https://oliverah.com"

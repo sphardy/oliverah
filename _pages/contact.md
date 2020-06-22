@@ -11,7 +11,7 @@ header:
       url: "/"
 
 label:
-  msg     : "<strong><i class=\"far fa-fw fa-comment\" aria-hidden=\"true\">       </i>&nbsp;Messages:     </strong>"
+  msg     : "<strong><i class=\"far fa-fw fa-comment\" aria-hidden=\"true\">       </i>&nbsp;Msgs:         </strong>"
   email   : "<strong><i class=\"far fa-fw fa-envelope\" aria-hidden=\"true\">      </i>&nbsp;Email:        </strong>"
   phone   : "<strong><i class=\"fab fa-fw fa-apple\" aria-hidden=\"true\">         </i>&nbsp;Phone:        </strong>"
   linkedin: "<strong><i class=\"fab fa-fw fa-linkedin\" aria-hidden=\"true\">      </i>&nbsp;LinkedIn:     </strong>"
@@ -33,7 +33,7 @@ label:
 
 | :----------- | :--------- |
 | {{ page.label.phone }}    | [+358 45 7345 5885][Phone] |
-| {{ page.label.email }}    | [webmail@oliverah.com](mailto:webmai@oliverah.com) |
+| {{ page.label.email }}    | [webmail [at] oliverah [dot] com](mailto:webmail@oliverah.com) |
 | {{ page.label.msg }}      | [Signal], [WhatsApp], [Telegram], [Keybase] |
 | {{ page.label.linkedin }} | [https://www.linkedin.com/company/oliverah](https://www.linkedin.com/company/oliverah) |
 | {{ page.label.keybase }}  | [https://keybase.io/team/oliverah.public](https://keybase.io/team/oliverah.public) |
