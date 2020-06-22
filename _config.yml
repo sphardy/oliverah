@@ -23,10 +23,10 @@ masthead_title:  ""
 repository:      "sphardy/oliverah"
 github: [metadata]
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  Oliverah Consulting, Business Development, Sales/Marketing, Key Account Management, Program Management
+  Digital Technology, Telecommunications & Data Communications and Semiconductors
+
 twitter_username: s_paul_h
 github_username: sphardy
 minimal_mistakes_skin: dirt
