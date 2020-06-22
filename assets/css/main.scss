@@ -7,8 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__footer { background-color: #E7DFD9; }
+table          { width: 100%; }
+thead          { background-color: transparent; border-top: 2px solid #afa58f; }
 
-thead         { background-color: transparent; border-top: 2px solid #afa58f; }
-
-.greedy-nav a { color: #636363; }
+.greedy-nav a  { color: #636363; }
+.page__footer  { background-color: #E7DFD9; }
+.smallfont .page__content { font-size: 0.9em;}

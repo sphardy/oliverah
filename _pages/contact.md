@@ -6,7 +6,6 @@ tagline: Contact Details
 header:
   overlay_image: /assets/images/OliverahClear.png
   overlay_filter: rgba(185,144,117,0.2)
-  # caption: "Photo credit: [**Paul**](mailto:webmail2020@oliverah.com)"
   actions:
     - label: "About"
       url: "/"
@@ -23,6 +22,8 @@ label:
   upload  : "<strong><i class=\"fas fa-fw fa-upload\" aria-hidden=\"true\">        </i>&nbsp;Uploads:      </strong>"
 
 ---
+{% include sph/align-header.html position="100% 50%" %}
+
 <style>
   a { text-decoration: none; }
   tr, td { border: none; }
@@ -40,10 +41,6 @@ label:
 | {{ page.label.upload }}   | Send via [this link]({% link _pages/uploads.md %}) |
 | {{ page.label.web }}      | [{{site.url}}]({{site.url}}) |
 | {{ page.label.map }}      | [\\\\\\former.uptake.swells][location] |
-
-<!--
-> {{ page.label.map }}<br /> Torggatan 8A7, <br />22100 Mariehamn, <br />Åland Islands, <br />Finland
-{: .notice--info} -->
 
 [Phone]:  tel:+3584573455885
 [Signal]: https://signal.org
