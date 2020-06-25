@@ -18,7 +18,7 @@ layout            : sph-splash
 
 header:
   overlay_image   : /assets/images/OliverahClear.jpg
-  #overlay_filter  : rgba(185,144,117,0.2)
+  overlay_filter  : rgba(185,144,117,0.15)
   position        : "81% 50%" #Shift image up
   #actions:
   #  - label       : About Me...
@@ -52,7 +52,5 @@ gallery:
 <!--style>.page__hero--overlay {height: 100%;}</style-->
 <style>
   .page__hero--overlay {min-height: 350px;}
-  .page__title {color: #F3F3F3 !important; }
-  .page__lead  {color: #F3F3F3 !important; }
 </style>
 {% include gallery %}

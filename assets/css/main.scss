@@ -7,9 +7,15 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-table          { width: 100%; }
-thead          { background-color: transparent; border-top: 2px solid #afa58f; }
+table  { width: 100%; }
+thead  { background-color: transparent; border-top: 2px solid #afa58f; }
+tr, td { border: none; }
+a      { text-decoration: none; }
 
+
+.masthead      { background-color: rgba(185,144,117,0.15); }
+.greedy-nav    { background-color: transparent; }
 .greedy-nav a  { color: #636363; }
-.page__footer  { background-color: #E7DFD9; }
+.page__footer  { background-color: #EBE4E0; }
 .smallfont .page__content { font-size: 0.9em;}
+

@@ -1,4 +1,5 @@
 ---
+layout: sph-single
 permalink: /contact/
 classes: wide
 title: Contact Details
@@ -6,7 +7,8 @@ tagline: Get in touch!
 
 header:
   overlay_image: /assets/images/OliverahClear.png
-  overlay_filter: rgba(185,144,117,0.2)
+  overlay_filter: rgba(185,144,117,0.15)
+  position: "80% 50%"
   actions:
     - label: "About"
       url: "/about"
@@ -23,12 +25,6 @@ label:
   upload  : "<strong><i class=\"fas fa-fw fa-upload\" aria-hidden=\"true\">        </i>&nbsp;Uploads:      </strong>"
 
 ---
-{% include sph/align-header.html position="80% 50%" %}
-
-<style>
-  a { text-decoration: none; }
-  tr, td { border: none; }
-</style>
 
 # Contact Details
 
