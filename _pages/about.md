@@ -5,18 +5,18 @@ layout: single
 classes:
   - wide
   - smallfont
-title: "Oliverah Consulting"
+title: "About Oliverah"
+tagline: Bio & Focus
 header:
   overlay_image: /assets/images/OliverahClear.png
   overlay_filter: rgba(185,144,117,0.2)
   actions:
-    - label: "Contact Us"
+    - label: "Contact"
       url: "/contact/"
 
-permalink: /
-redirect_from: /about
+permalink: /about
 ---
-{% include sph/align-header.html position="100% 50%" %}
+{% include sph/align-header.html position="80% 50%" %}
 
 Consultancy in Business Development, Sales/Marketing, Key Account Management and Program Management in the areas of Digital Technology, Telecommunications & Data Communications and Semiconductors.
 

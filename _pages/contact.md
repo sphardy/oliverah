@@ -1,14 +1,15 @@
 ---
 permalink: /contact/
 classes: wide
-tagline: Contact Details
+title: Contact Details
+tagline: Get in touch!
 
 header:
   overlay_image: /assets/images/OliverahClear.png
   overlay_filter: rgba(185,144,117,0.2)
   actions:
     - label: "About"
-      url: "/"
+      url: "/about"
 
 label:
   msg     : "<strong><i class=\"far fa-fw fa-comment\" aria-hidden=\"true\">       </i>&nbsp;Msgs:         </strong>"
@@ -22,7 +23,7 @@ label:
   upload  : "<strong><i class=\"fas fa-fw fa-upload\" aria-hidden=\"true\">        </i>&nbsp;Uploads:      </strong>"
 
 ---
-{% include sph/align-header.html position="100% 50%" %}
+{% include sph/align-header.html position="80% 50%" %}
 
 <style>
   a { text-decoration: none; }
